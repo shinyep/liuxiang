@@ -1,0 +1,45 @@
+﻿# Python / Django
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.sqlite3-journal
+db.sqlite3
+db_compare.sqlite3
+
+# Node / Vue
+node_modules/
+flow_frontend/dist/
+flow_frontend/public/static/
+flow_system/flow_frontend/node_modules/
+flow_system/flow_frontend/dist/
+
+# Build / Distribution
+build/
+dist/
+*.spec
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Sensitive / Business data
+数据库备份/
+backups/
+*.xlsx
+*.xls
+
+# Misc
+.workbuddy/
+agnes-video-gen/
+backup_test/
