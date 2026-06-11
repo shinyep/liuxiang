@@ -43,3 +43,8 @@ backups/
 .workbuddy/
 agnes-video-gen/
 backup_test/
+
+# 业务文档
+代码问题质量报告.md
+客户信息.md
+客户差异报告.md
